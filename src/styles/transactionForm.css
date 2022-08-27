@@ -1,0 +1,37 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+form .teee {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.473);
+  padding: 12px 30px;
+  height: 400px;
+  overflow-y: auto;
+}
+form button {
+  padding: 4px;
+  height: 100%
+}
+
+.transaction-inputs {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  height: 30px;
+  margin: 5px 0;
+}
+.transaction-inputs input {
+  width: 400px;
+  height: 100%;
+}
+.transaction-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px;
+}
