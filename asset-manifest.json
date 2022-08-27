@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Charter-reward-points/static/css/main.e72f608a.css",
-    "main.js": "/Charter-reward-points/static/js/main.246d5782.js",
+    "main.css": "/Charter-reward-points/static/css/main.93549697.css",
+    "main.js": "/Charter-reward-points/static/js/main.9352edb8.js",
     "index.html": "/Charter-reward-points/index.html",
-    "main.e72f608a.css.map": "/Charter-reward-points/static/css/main.e72f608a.css.map",
-    "main.246d5782.js.map": "/Charter-reward-points/static/js/main.246d5782.js.map"
+    "main.93549697.css.map": "/Charter-reward-points/static/css/main.93549697.css.map",
+    "main.9352edb8.js.map": "/Charter-reward-points/static/js/main.9352edb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.e72f608a.css",
-    "static/js/main.246d5782.js"
+    "static/css/main.93549697.css",
+    "static/js/main.9352edb8.js"
   ]
 }
