@@ -61,7 +61,7 @@ const TransactionForm = ({
       return (
        <div key={index} className="transaction-inputs">
         <p>total: </p>
-        <input type="number" step="0.01" />
+        <input type="number" step="0.01" placeholder="Enter amount" />
         <button type="button" onClick={deleteInput}>
          delete
         </button>
@@ -69,7 +69,7 @@ const TransactionForm = ({
       );
      })}
     </div>
-    
+
     <div className="transaction-btns">
      <button type="button" onClick={addInput}>Add transaction</button>
      <button type="button" onClick={populateInputs}>Test data</button>

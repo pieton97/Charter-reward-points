@@ -28,6 +28,8 @@ form button {
 .transaction-inputs input {
   width: 400px;
   height: 100%;
+  text-align: right;
+  padding-right: 10px;
 }
 .transaction-btns {
   display: flex;
