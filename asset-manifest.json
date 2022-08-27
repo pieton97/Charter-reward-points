@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Charter-reward-points/static/css/main.e72f608a.css",
+    "main.js": "/Charter-reward-points/static/js/main.246d5782.js",
+    "index.html": "/Charter-reward-points/index.html",
+    "main.e72f608a.css.map": "/Charter-reward-points/static/css/main.e72f608a.css.map",
+    "main.246d5782.js.map": "/Charter-reward-points/static/js/main.246d5782.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72f608a.css",
+    "static/js/main.246d5782.js"
+  ]
+}
